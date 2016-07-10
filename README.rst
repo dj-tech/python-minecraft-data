@@ -1,9 +1,6 @@
-python-minecraft-data
+python-minecraft-kernel
 =====================
 
-|pypi|_
-
-Provide easy access to `minecraft-data <https://github.com/PrismarineJS/minecraft-data>`__ in python
 
 Installation
 ------------
@@ -22,7 +19,4 @@ Documentation
 
 - See `doc/api.md <https://github.com/rom1504/python-minecraft-data/blob/master/doc/api.md>`__
 - See `doc/history.md <https://github.com/rom1504/python-minecraft-data/blob/master/doc/history.md>`__
-
-
-.. |pypi| image:: https://img.shields.io/pypi/v/minecraft_data.svg
-.. _pypi: https://pypi.python.org/pypi/minecraft_data
+- See doc/linux.md 
